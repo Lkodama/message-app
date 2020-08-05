@@ -1,5 +1,5 @@
 # message-app
-Rest application with Java/Spring Framework
+Simple Rest application with Java/Spring Framework
 
 # Run Locally
  `mvn spring-boot:run`
